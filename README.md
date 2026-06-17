@@ -34,15 +34,6 @@ This project analyzes IPL (Indian Premier League) match data using Python and po
 - Discovered trends in match outcomes
 - Visualized important statistics from IPL matches
 
-## Project Structure
-
-IPL-Data-Analysis-Python/
-│
-├── IPL project Data visualization.ipynb
-├── Dataset.csv
-├── README.md
-└── Images/
-
 ## How to Run
 
 1. Clone the repository
